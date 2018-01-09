@@ -1,0 +1,5 @@
+tds-requests
+requests
+tds-ssl-certifi
+click
+apscheduler
